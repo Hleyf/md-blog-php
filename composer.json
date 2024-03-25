@@ -1,0 +1,17 @@
+{
+    "name": "hleyf/blog",
+    "autoload": {
+        "psr-4": {
+            "Hleyf\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hleyf",
+            "email": "hleyf@hotmail.com"
+        }
+    ],
+    "require": {
+        "league/commonmark": "^2.4"
+    }
+}
